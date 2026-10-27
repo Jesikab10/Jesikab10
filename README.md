@@ -4,18 +4,25 @@
 
 I design and automate complex workflows across systems, services, and data pipelines.
 
+10+ years across broadcast, video, and media delivery workflows.
+
+Experience across international and Latin American distribution environments, working with complex
+delivery chains, technical validation, metadata requirements, and interoperability between systems.
+
 My background in broadcast engineering taught me to orchestrate multi-stage processes with strict
 technical requirements, multiple dependencies, and real-world failure modes. I apply that same
-engineering discipline across domains — from media pipelines to data automation, cloud services,
+engineering discipline across domains, from media pipelines to data automation, cloud services,
 and AI-powered systems.
 
-I use AI coding assistants as primary implementation tools, combining fast iteration with
-engineering judgment to deliver solutions that work beyond the first successful run.
+I use AI coding assistants as primary implementation tools, combining fast iteration with engineering
+best practices: tested, reviewed, and secure by design.
 
 ### How I work
 
-- **Understand the real system.** Read the code, inspect the schema, validate actual payloads, and
-  identify constraints before deciding how to build.
+- **Start from the actual problem.** Onboard into the real problem statement and business goals,
+  then design and build the solution that meets them.
+- **Understand the real system.** When there is an existing system, read the code, inspect the
+  schema, validate actual payloads, and identify constraints before deciding how to build.
 - **Ship fast, harden where it matters.** Validate assumptions early, iterate quickly, and add
   reliability, testing, and safeguards before it reaches production.
 - **Design for failure.** Idempotent operations, selective retries, explicit states, and traceable
@@ -27,7 +34,7 @@ engineering judgment to deliver solutions that work beyond the first successful 
 
 ### Selected work
 
-#### Video Processing Orchestrator — production system, private code
+#### Video Processing Orchestrator - production system, private code
 
 [Architecture overview](https://github.com/Jesikab10/video-pipeline-architecture/blob/main/docs/airflow-orchestrator/ARCHITECTURE.md)
 
@@ -45,7 +52,7 @@ external media asset library.
 The goal is to make complex media operations repeatable and reliable across systems, while keeping
 processing, orchestration, and integration responsibilities clearly separated.
 
-#### media-jobs-mcp — public project
+#### media-jobs-mcp - public project
 
 [MCP server and LangGraph agent](https://github.com/Jesikab10/media-jobs-mcp)
 
@@ -63,11 +70,7 @@ security boundaries and existing business rules.
 
 ### Broadcast & Media Engineering
 
-10+ years across broadcast, video, and media delivery workflows.
-
-Experience across international and Latin American distribution environments, working with complex
-delivery chains, technical validation, metadata requirements, and interoperability between media
-systems.
+https://www.linkedin.com/in/jesika-berroteran-b16a3a32/
 
 - **Video and transport:** MPEG-2, H.264/AVC, H.265/HEVC, SDI, RTP, HLS, and DVB.
 - **Media packaging and metadata:** CableLabs specifications, ADI, asset metadata, and delivery
